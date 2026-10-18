@@ -1,0 +1,47 @@
+* c81ef45 (origin/server) C10: add t11_C10.txt
+* 39d49a1 C4: add t11_C4.txt
+* 4d3061b C3: add t11_C3.txt
+* c5b406a (origin/t11-master, origin/client) C9: add t11_C9.txt
+* 9f8a9a3 C8: add t11_C8.txt
+* a1783fe (origin/t11-start-master) C6: add t11_C6.txt
+* 47e2cd9 C5: add t11_C5.txt
+| * de421bc (origin/t11-start-client) C9: add t11_C9.txt
+| * d459ee0 C8: add t11_C8.txt
+| | * 94b77d4 (origin/t11-start-server) C10: add t11_C10.txt
+| | * d6222c8 C4: add t11_C4.txt
+| |/  
+| * 5c1e918 C3: add t11_C3.txt
+|/  
+| * 6afe94f (origin/conflict-rebase) C5: change line2 in info.txt
+| * 43328ab C4: add c4.txt
+| | * 5bcc269 (origin/conflict-merge) C35: merge conflict-test into conflict-master (conflict resolved)
+| |/| 
+| | * 94d6bfa (origin/conflict-test) C5: change line2 in info.txt
+| | * c522220 C4: add c4.txt
+| |/  
+|/|   
+| * dc5f25e (origin/conflict-master) C3: change line2 in info.txt
+|/  
+| * 385ade9 (origin/linear-test) C67: two changes as one
+| * 1d26317 C5: add c5.txt
+| * 42991a3 C4: add c4.txt
+| | * f1402df (origin/test, origin/master, origin/HEAD, master) C35: merge test into master
+| |/| 
+| | * f36ea3c C5: add c5.txt
+| | * d2737b6 C4: add c4.txt
+| |/  
+|/|   
+| * 88536df C3: add c3.txt
+|/  
+* 315e487 C2: add info.txt
+*   1104f7c Merge branch ElinaM into master
+|\  
+| * 6bea6be (HEAD -> ElinaM, origin/ElinaM) Fix difference calculation
+| * 8e1ddac Change sum calculation to difference calculation
+| * f816ced Add sum of two numbers
+| * 8a311bc Add .gitignore
+| * 1a30e0d Add input of two integers
+| * e0414e5 Add simple program main.py
+| * c29bd1a Add test file
+|/  
+* 20aa102 Initial commit

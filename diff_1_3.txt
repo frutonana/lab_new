@@ -1,0 +1,24 @@
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..959ab3e
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,8 @@
++__pycache__/
++*.pyc
++*.pyo
++venv/
++.idea/
++.vscode/
++*.exe
++*.class
+diff --git a/main.py b/main.py
+index 5d97bdd..042678a 100644
+--- a/main.py
++++ b/main.py
+@@ -1 +1,4 @@
+-print("Hello, Git!")
++a = int(input("Введите первое целое число: "))
++b = int(input("Введите второе целое число: "))
++print("Вы ввели:", a, "и", b)
++print("Сумма:", a, "+", b, "=", a + b)
